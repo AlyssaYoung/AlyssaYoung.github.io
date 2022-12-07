@@ -4,11 +4,14 @@
 
 Master Student at Tsinghua University
 
-Hi! I am a third year master student in Computer Science at Tsinghua University, where I obtained a bachelor's degree in Software Engineering at Tianjin University in 2019. I conduct research under the supervison of Prof. [Wenwu Zhu](https://scholar.google.com/citations?user=7t2jzpgAAAAJ&hl=en) and Prof. [Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/).
+Hi! I am a third year master student in Computer Science at Tsinghua University, where I obtained a bachelor's degree at Tianjin University in 2019. I conduct research under the supervison of Prof. [Wenwu Zhu](https://scholar.google.com/citations?user=7t2jzpgAAAAJ&hl=en) and Prof. [Xin Wang](http://mn.cs.tsinghua.edu.cn/xinwang/).
 
 My research interests include video understanding and multi-modal learning.
 
-Email: pinci_yang@outlook.com
+## Contact
+- Email: pinci_yang@outlook.com
+- [Github](https://github.com/alyssaYoung)
+- Twitter: @AlyssaY74325529
 
 
 ## Publications
