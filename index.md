@@ -1,4 +1,4 @@
-## Pinci Yang
+## About Me
 
 <img class="profile-picture" src="sherlock.jpg">
 
