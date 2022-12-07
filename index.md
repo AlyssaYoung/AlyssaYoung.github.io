@@ -1,6 +1,6 @@
 ## About Me
 
-<img class="profile-picture" src="ypc_profile.jpg">
+<img class="profile-picture" src="profile.jpg">
 
 Master Student at Tsinghua University
 
